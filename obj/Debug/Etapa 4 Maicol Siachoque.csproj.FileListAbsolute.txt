@@ -1,0 +1,15 @@
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\bin\Debug\Etapa 4 Maicol Siachoque.exe.config
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\bin\Debug\Etapa 4 Maicol Siachoque.exe
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\bin\Debug\Etapa 4 Maicol Siachoque.pdb
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.exe
+C:\Users\maico\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.pdb
+C:\Users\maico\OneDrive\Desktop\Programas\Etapa 4 Maicol Siachoque\bin\Debug\Etapa 4 Maicol Siachoque.exe.config
+C:\Users\maico\OneDrive\Desktop\Programas\Etapa 4 Maicol Siachoque\bin\Debug\Etapa 4 Maicol Siachoque.exe
+C:\Users\maico\OneDrive\Desktop\Programas\Etapa 4 Maicol Siachoque\bin\Debug\Etapa 4 Maicol Siachoque.pdb
+C:\Users\maico\OneDrive\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.csproj.AssemblyReference.cache
+C:\Users\maico\OneDrive\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.csproj.CoreCompileInputs.cache
+C:\Users\maico\OneDrive\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.exe
+C:\Users\maico\OneDrive\Desktop\Programas\Etapa 4 Maicol Siachoque\obj\Debug\Etapa 4 Maicol Siachoque.pdb
